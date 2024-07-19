@@ -7,4 +7,4 @@ Retrieval-Augmented Generation (RAG) combines the strengths of retrieval-based a
 # Medium article
 For a detailed explanation of Retrieval-Augmented Generation (RAG) and its implementation, check out my [Medium article](https://medium.com/@simboloit/llama-3-%E1%80%94%E1%80%BE%E1%80%84%E1%80%B7%E1%80%BA-chromadb%E1%80%80%E1%80%AD%E1%80%AF-%E1%80%A1%E1%80%9E%E1%80%AF%E1%80%B6%E1%80%B8%E1%80%95%E1%80%BC%E1%80%AF-rag-retrieval-augmented-generation-%E1%80%90%E1%80%8A%E1%80%BA%E1%80%86%E1%80%B1%E1%80%AC%E1%80%80%E1%80%BA%E1%80%81%E1%80%BC%E1%80%84%E1%80%BA%E1%80%B8-b21f38989ac0).
 # License
-This project is licensed under the MIT License. See the [LICENSE]() file for more details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
